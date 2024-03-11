@@ -1,7 +1,6 @@
 ## Mobile app News
 
-
-Gostaríamos de expressar nossos sinceros parabéns por avançar para a próxima etapa do processo de seleção. Este é um grande momento de entusiasmo e espera ter uma experiência recompensadora!
+- Caracteristicas do Desafio: 
 
 O desafio que apresentamos consiste na criação de dois projetos com uma finalidade comum: um software destinado a listar as notícias mais significativas do Brasil no momento. Para cumprir essa tarefa com êxito, por favor, atente-se aos seguintes critérios:
 
@@ -16,3 +15,23 @@ As notícias para este desafio podem ser adquiridas através desta API pública:
 Confira a documentação da API neste link: https://servicodados.ibge.gov.br/api/docs/noticias?versao=3
 
 Os projetos que desejamos ver concretizados incluem um layout Web utilizando o NextJS e um aplicativo móvel com React Native - Expo. Ambos os projetos devem ser desenvolvidos em TypeScript, com formatação Tailwind CSS, formulários com React Hook Form e requisições com React Query.
+
+
+## Stack utilizada
+
+**Front-end:** NextJS - TypeScript - React Query - TailwindCSS;
+**Mobile:** React Native - TypeScript - ContextAPI - NativeWind - Expo
+
+
+## Instalação
+
+Install appTeams with npm;
+
+```bash
+  git clone project;
+  npm to install dependecies;
+  cd folder web or mobile folder;
+  npm run start to run mobile app;
+  npm run dev to run web app;
+```
+    
